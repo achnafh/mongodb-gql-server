@@ -1,4 +1,4 @@
-Setting up an apollo-express-server using graphql and mongoDB for the databas
+Setting up an apollo-express-server using graphql and mongoDB for the database
 
 **Installing mongoDB packages using homebrew:**
 1. brew install mongodb-community
