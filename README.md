@@ -1,0 +1,1 @@
+Setting up a server using graphql and mongoDB for the database
