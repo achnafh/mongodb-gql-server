@@ -1,1 +1,2 @@
-Setting up a server using graphql and mongoDB for the database
+Setting up an apollo-express-server using graphql and mongoDB for the databas
+
